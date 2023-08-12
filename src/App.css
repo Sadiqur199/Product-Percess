@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.titleTxt {
+  background: rgb(247, 244, 244);
+  padding: 2px;
+  border-bottom: 1px solid black;
+}
+.eachEntry {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+.formLabel {
+  margin-right: 15px;
+}
+.formInput {
+  padding: 3px;
+  width: 180px;
+  margin-left: 20px;
+}
+.srcBox {
+  background: rgb(247, 244, 244);
+  padding: 2px;
+}
+#product,
+#color {
+  padding: 3px;
+  width: 180px;
+  margin-left: 20px;
+}
+table {
+  width: 100%;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+.plusMinus {
+  background: rgb(247, 244, 244);
+  padding: 5px;
+}
