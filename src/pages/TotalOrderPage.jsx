@@ -22,8 +22,8 @@ const TotalOrderPage = () => {
                 </label>
                 <select name="party" id="party" className="formInput">
                   <option value="All">All</option>
-                  <option value="1">1</option>
-                  <option value="2">2</option>
+                  <option value="1">Amir </option>
+                  <option value="2">Jami</option>
                 </select>
               </div>
               <div className="eachEntry">
@@ -32,8 +32,9 @@ const TotalOrderPage = () => {
                 </label>
                 <select name="status" id="status" className="formInput">
                   <option value="All">All</option>
-                  <option value="1">1</option>
-                  <option value="2">2</option>
+                  <option value="1">Pending</option>
+                  <option value="2">Approve</option>
+                  <option value="2">Rejected</option>
                 </select>
               </div>
             </div>
@@ -52,8 +53,9 @@ const TotalOrderPage = () => {
                 </label>
                 <select name="branch" id="branch" className="formInput">
                   <option value="All">All</option>
-                  <option value="1">1</option>
-                  <option value="2">2</option>
+                  <option value="1">Bangladesh</option>
+                  <option value="2">Uk</option>
+                  <option value="2">HongKong</option>
                 </select>
               </div>
             </div>
